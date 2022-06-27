@@ -1,3 +1,4 @@
 [submodule "angular-subrepo-test"]
 	path = angular-subrepo-test
 	url = https://github.com/ekremsahin/angular-subrepo-test.git
+	branch = master
